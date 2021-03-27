@@ -34,7 +34,7 @@ Most everything you can do with a remote or keyboard is supported in the skill, 
 
 In order to use that skill 
 
-### Alexa TikTok in Action - Demo
+### Alexa TikTok in Action - Demo (Click on the Image it redirect you to a Youtube Video)
 <p>
   <a href="https://youtu.be/5z9Iirt9RnA">
     <img src="https://i.imgur.com/phPcfs2.jpeg" width="200">
