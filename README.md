@@ -32,8 +32,6 @@ Most everything you can do with a remote or keyboard is supported in the skill, 
 - Play a random funny video on the trending list that TikTok Provides
 - Read TikTok Video captions
 
-In order to use that skill 
-
 ### Alexa TikTok in Action - Demo (Click on the Image it redirect you to a Youtube Video)
 <p>
   <a href="https://youtu.be/5z9Iirt9RnA">
@@ -51,7 +49,7 @@ If you need help getting a server going or configuring the Skill, please visit w
 
 ## Contributors
 
-Please do any PR you can to improve or enhance the product ! 
+Please do any PR you can to improve or enhance the product and you will be named under this section with your github ID.
 
 ## Donate
 [![Buy Me A Coffee](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/momolette)
