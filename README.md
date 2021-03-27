@@ -37,7 +37,7 @@ In order to use that skill
 ### Alexa TikTok in Action - Demo
 <p>
   <a href="https://youtu.be/5z9Iirt9RnA">
-    <img src="https://i.imgur.com/phPcfs2.jpeg" style="max-width: 500px">
+    <img src="https://i.imgur.com/phPcfs2.jpeg" style="max-width: 200px">
   </a>
 </p>
 
