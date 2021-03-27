@@ -1,7 +1,7 @@
 # TikTok: Alexa Integration With TikTok
 
 <p align="center">
-  <img src="https://imgur.com/a/xnQtACk" width="200"/>
+  <img src="https://i.imgur.com/S5Pkncz.png" width="200"/>
 </p>
 
 ## About
@@ -37,7 +37,7 @@ In order to use that skill
 ### Alexa TikTok in Action - Demo
 <p>
   <a href="https://youtu.be/5z9Iirt9RnA">
-    <img src="https://imgur.com/phPcfs2" style="max-width: 500px">
+    <img src="https://i.imgur.com/phPcfs2.jpeg" style="max-width: 500px">
   </a>
 </p>
 
