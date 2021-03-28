@@ -61,3 +61,4 @@ If you're interested in chatting with us about the development of the skill, ple
 
 This code is in no way affiliated with, authorized, maintained, sponsored or endorsed by TikTok
 or any of its affiliates or subsidiaries. This is an independent and unofficial API. Use at your own risk.
+TikTok is a trademark of ByteDance Inc., registered in the U.S. and other countries. This is an independent project and has no relationship to TikTok or ByteDance Inc.
