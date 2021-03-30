@@ -39,6 +39,13 @@ Most everything you can do with a remote or keyboard is supported in the skill, 
   </a>
 </p>
 
+### TECH (APIs, etc) 
+
+I used the open data api that TikTok Mobile is using ```https://m.tiktok.com/api/item_list/?count=50&id=1&type=5&secUid=&maxCursor=1&minCursor=0&sourceType=```
+
+The only issue with this API is that it does not allow to pass any location parameters in order to get localized videos. For instance I am using AWS Lambda in us-west-2 and I got only US Videos.
+
+
 ## Getting Help
 
 If you need help getting a server going or configuring the Skill, please visit write me at hello@arradimohamed.fr. No need to raise a Github issue unless the issue is from the code.
